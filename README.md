@@ -1,5 +1,9 @@
 # OCR Model Conversion from GPU to CPU
 
+## Google Colab Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jqCDgeSehyLHo4ppd6htiBjptf-UYCNA?usp=sharing)
+
 ## Index
 1. [Project Overview](#project-overview)
 2. [Key Features](#key-features)
